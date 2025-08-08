@@ -1,0 +1,12 @@
+{
+  "name": "todo-list-app",
+  "version": "1.0.0",
+  "description": "Minimal TODO list app with Express and vanilla JS frontend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
